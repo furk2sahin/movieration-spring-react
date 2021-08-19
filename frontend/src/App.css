@@ -1,0 +1,14 @@
+.App {
+  --primary-color: #0E0E10;
+  --primarylight-color: #18181B;
+  --secondary-color: #464649;
+
+  --primary-text: #EEEEEE;
+  --secondary-text: #aaa;
+  --unique-text: #db2828;
+  --app-width: 985px;
+
+  height: 100vh;
+  background-color: var(--primary-color);
+  overflow-y: hidden;
+}
